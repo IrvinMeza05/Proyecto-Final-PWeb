@@ -1,0 +1,317 @@
+body {
+	background-color: #400124;
+	margin: 10;
+	padding: 10;
+}
+
+a{
+	text-decoration: none;
+	font-size: 30px;
+}
+
+li{
+ list-style: none;
+}
+
+div#contenedor{
+	background-color:#2D292B;
+  width: 1800px;
+	height: 1040px;
+	margin: auto;
+}
+
+div#contenedorMenu{
+	background-color:#2D292B;
+	width: 1800px;
+	height: 2675px;
+	margin: auto;
+
+}
+
+
+
+div#menu{
+	display: flex;
+	justify-content: space-between;
+
+}
+
+div#logo-y-menu{
+	display: flex;
+	align-items: center;
+}
+
+
+nav ul {
+	display: flex;
+}
+
+nav ul li{
+	margin: 0px 100px;
+}
+
+nav ul li a {
+	color:white;
+}
+
+div#contenedorUno{
+	background-color:#493E42;
+	width: 800px;
+	height: 400px;
+	margin: 25px 0px 0px 25px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	border-radius: 40px 40px 40px 40px;
+	-moz-border-radius: 40px 40px 40px 40px;
+	-webkit-border-radius: 40px 40px 40px 40px;
+	border: 0px solid #000000;
+}
+
+h1 {
+	margin: 0px;
+	font-size: 55px;
+	color: #D8D2D4;
+}
+
+h2 {
+	margin: 5px;
+	font-size: 35px;
+	color: white;
+}
+h3 {
+	margin: 0px;
+	font-size: 30px;
+	color: white;
+}
+
+div#contenedorDos{
+	background-color:#131011;
+	width: 680px;
+	height: 430px;
+	margin: -400px 0px 0px 1100px;;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	border-radius: 40px 40px 40px 40px;
+	-moz-border-radius: 40px 40px 40px 40px;
+	-webkit-border-radius: 40px 40px 40px 40px;
+	border: 0px solid #000000;
+}
+
+div#contenedorTres{
+	background-color:#493E42;
+	width: 800px;
+	height: 400px;
+	margin: 20px 0px 0px 980px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	border-radius: 40px 40px 40px 40px;
+	-moz-border-radius: 40px 40px 40px 40px;
+	-webkit-border-radius: 40px 40px 40px 40px;
+	border: 0px solid #000000;
+}
+div#contenedorCuatro{
+	background-color:#131011;
+	width: 680px;
+	height: 430px;
+	margin: -430px 0px 25px 25px;;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	border-radius: 40px 40px 40px 40px;
+	-moz-border-radius: 40px 40px 40px 40px;
+	-webkit-border-radius: 40px 40px 40px 40px;
+	border: 0px solid #000000;
+}
+
+div#piePag{
+	background-color:#2D292B;
+	width: 1800px;
+	height: 250px;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	border-radius: 0px 0px 30px 30px;
+	-moz-border-radius: 0px 0px 30px 30px;
+	-webkit-border-radius: 0px 0px 30px 30px;
+	border: 0px solid #000000;
+}
+div#menuRes{
+
+	background-color:#493E42;
+	width: 1500px;
+	height: 2500px;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	border-radius: 61px 61px 61px 61px;
+	-moz-border-radius: 61px 61px 61px 61px;
+	-webkit-border-radius: 61px 61px 61px 61px;
+	border: 0px solid #000000;
+
+}
+
+div#Carta {
+
+	background-color:#2D292B;
+	width: 1050px;
+	height: 1000px;
+	margin: 25px 50px 0px 0px;
+	border-radius: 82px 82px 82px 82px;
+	-moz-border-radius: 82px 82px 82px 82px;
+	-webkit-border-radius: 82px 82px 82px 82px;
+	border: 0px solid #000000;
+
+}
+div#imgplatosPrincipales{
+
+	background-color:#2D292B;
+	width: 430px;
+	height: 800px;
+	margin: 25px 0px 0px -30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	border-radius: 82px 82px 82px 82px;
+	-moz-border-radius: 82px 82px 82px 82px;
+	-webkit-border-radius: 82px 82px 82px 82px;
+	border: 0px solid #000000;
+
+}
+
+div#bebidas{
+
+	background-color:#2D292B;
+	width: 1000px;
+	height: 400px;
+	margin: 25px 50px 0px 0px;
+	border-radius: 82px 82px 82px 82px;
+	-moz-border-radius: 82px 82px 82px 82px;
+	-webkit-border-radius: 82px 82px 82px 82px;
+	border: 0px solid #000000;
+
+}
+div#imgbebidas{
+
+	background-color:#2D292B;
+	width: 430px;
+	height: 400px;
+	margin: 25px 0px 0px -30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	border-radius: 82px 82px 82px 82px;
+	-moz-border-radius: 82px 82px 82px 82px;
+	-webkit-border-radius: 82px 82px 82px 82px;
+	border: 0px solid #000000;
+
+}
+div#postres{
+
+	background-color:#2D292B;
+	width: 1000px;
+	height: 600px;
+	margin: 25px 50px 0px 0px;
+	border-radius: 82px 82px 82px 82px;
+	-moz-border-radius: 82px 82px 82px 82px;
+	-webkit-border-radius: 82px 82px 82px 82px;
+	border: 0px solid #000000;
+
+}
+
+div#imgpostres{
+
+	background-color:#2D292B;
+	width: 430px;
+	height: 600px;
+	margin: 25px 0px 0px -30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	border-radius: 82px 82px 82px 82px;
+	-moz-border-radius: 82px 82px 82px 82px;
+	-webkit-border-radius: 82px 82px 82px 82px;
+	border: 0px solid #000000;
+
+}
+div#paquete{
+
+	background-color:#2D292B;
+	width: 1250px;
+	height: 300px;
+	margin: 25px 0px 0px 0px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	border-radius: 82px 82px 82px 82px;
+	-moz-border-radius: 82px 82px 82px 82px;
+	-webkit-border-radius: 82px 82px 82px 82px;
+	border: 0px solid #000000;
+
+}
+div#contenedorGP1{
+	background-color:#493E42;
+	width: 1600px;
+	height: 840px;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	border-radius: 82px 82px 82px 82px;
+	-moz-border-radius: 82px 82px 82px 82px;
+	-webkit-border-radius: 82px 82px 82px 82px;
+	border: 0px solid #000000;
+
+
+}
+div#contenedorGP{
+	background-color:#493E42;
+	width: 1500px;
+	height: 840px;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	border-radius: 82px 82px 82px 82px;
+	-moz-border-radius: 82px 82px 82px 82px;
+	-webkit-border-radius: 82px 82px 82px 82px;
+	border: 0px solid #000000;
+
+
+}
+
+img{
+
+	margin: 10px;
+}
+
+div#contenedorCinco{
+	background-color:#493E42;
+	width: 800px;
+	height: 600px;
+	margin: 250px 0px 250px 500px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	border-radius: 40px 40px 40px 40px;
+	-moz-border-radius: 40px 40px 40px 40px;
+	-webkit-border-radius: 40px 40px 40px 40px;
+	border: 0px solid #000000;
+}
